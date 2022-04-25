@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-55.61800900210261" y="135.49385581402646">com.company.Main</node>
+    <node x="173.99161426312043" y="140.3886966828834">com.company.FileParser</node>
+    <node x="-87.79988703764127" y="-13.499108109374461">com.company.StringController</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.Main" target="com.company.FileParser" relationship="CREATE">
+      <point x="84.5" y="15.894840868856932" />
+      <point x="-138.5" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="true" x="191.5" y="122.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
